@@ -6,6 +6,9 @@ Hi, I'm **Randy Vianda Putra** 👨‍💻
 
 I'm Open Sourcerer, Frontend Enthusiast & Technology Eater. My passionate is about Javascript, Go, GraphQL, Typescript, and all things web technologies
 
+<p><img src="https://github-readme-stats.vercel.app/api?username=randyviandaputra&show_icons=true&theme=nightowl&locale=en" alt="randyviandaputra" /></p>
+
+
 My Complete CV in Linkedin : [https://www.linkedin.com/in/randyviandaputra/](https://www.linkedin.com/in/randyviandaputra/)
 
 
