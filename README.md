@@ -1,4 +1,4 @@
-# 💫 About Me:
+## Hi, I'm Randy 👋
 🔭 I’m currently working at Moladin as Software Engineer Frontend<br>👯 I’m looking to collaborate on frontend stuff<br>🌱 I’m currently learning Golang and Frontend Tooling<br>💬 Ask me about Career, Mentoring, Frontend & Engineering
 
 
