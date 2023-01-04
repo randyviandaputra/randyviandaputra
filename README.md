@@ -1,17 +1,17 @@
-## Hello World 😉👋 ##
-Hi, I'm **Randy Vianda Putra** 👨‍💻 
-
-+ Researcher at [evilfactorylabs](https://evilfactorylabs.org/) 
-
-I'm Open Sourcerer, Frontend Enthusiast & Technology Eater. My passionate is about Javascript, Go, GraphQL, Typescript, and all things web technologies
-
-<p><img src="https://github-readme-stats.vercel.app/api?username=randyviandaputra&show_icons=true&theme=nightowl&locale=en" alt="randyviandaputra" /></p>
+# 💫 About Me:
+🔭 I’m currently working at Moladin as Software Engineer Frontend<br>👯 I’m looking to collaborate on frontend stuff<br>🌱 I’m currently learning Golang and Frontend Tooling<br>💬 Ask me about Career, Mentoring, Frontend & Engineering
 
 
-My Complete CV in Linkedin : [https://www.linkedin.com/in/randyviandaputra/](https://www.linkedin.com/in/randyviandaputra/)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/randy.vp) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/randyviandaputra) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/randyvp) 
 
+# 💻 Tech Stack:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=randyviandaputra&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=randyviandaputra&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## Contact Me 📬 ##
-- Email: modulloe@gmail.com
-- Twitter: [@aweutist](https://twitter.com/aweutist)
-- Telegram: [@randyvp](https://t.me/randyvp)
+---
+[![](https://visitcount.itsvg.in/api?id=randyviandaputra&icon=0&color=9)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
