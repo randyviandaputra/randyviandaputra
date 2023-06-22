@@ -23,9 +23,4 @@ Frontend Tooling<br>💬 Ask me about Career, Mentoring, Frontend & Engineering
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-## 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=randyviandaputra&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=randyviandaputra&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
