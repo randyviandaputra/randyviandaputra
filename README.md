@@ -1,6 +1,6 @@
 ## Hi, I'm Randy 👋
 
-🔭 I’m currently working at Moladin as a Software Engineer Fullstack<br>👯 I’m
+🔭 I’m a Software Engineer Fullstack<br>👯 I’m
 looking to collaborate on frontend stuff<br>🌱 I’m currently learning Golang and
 Frontend Tooling<br>💬 Ask me about Career, Mentoring, Frontend & Engineering
 
