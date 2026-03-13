@@ -1,14 +1,17 @@
 ## Hi, I'm Randy 👋
 
-🔭 I’m a Software Engineer Fullstack<br>👯 I’m
-looking to collaborate on frontend stuff<br>🌱 I’m currently learning Golang and
-Frontend Tooling<br>💬 Ask me about Career, Mentoring, Frontend & Engineering
+🚀 Full-Stack Software Engineer<br>
+🌏 Building scalable products, AI systems, and automation workflows  <br>
+🤖 Specialized in AI integrations, modern web architecture, and developer productivity  <br>
+💬 Ask me about Career, Mentoring, AI & Engineering
 
-## 🌐 Socials:
+## 🧠 Current Focus
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/randy.vp)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/randyviandaputra)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/randyvp)
+🔹 AI Product Development  
+🔹 LLM Integration & AI Automation  
+🔹 Scalable Web Architecture  
+🔹 Developer Productivity Tools  
+🔹 Fullstack Ecosystem  
 
 ## 💻 Tech Stack:
 
@@ -22,5 +25,17 @@ Frontend Tooling<br>💬 Ask me about Career, Mentoring, Frontend & Engineering
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+## ⚡ Fun Facts
+
+- I love building **AI-powered developer tools**
+- I enjoy **system architecture and scaling products**
+- Passionate about **mentoring engineers**
+
+## 🌐 Socials:
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/randy.vp)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/randyviandaputra)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/randyvp)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
